@@ -1,0 +1,34 @@
+# IDE
+.idea/
+.metadata
+*.iml
+.vscode/
+
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.lock
+
+# Firebase
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+firebase.json
+.firebaserc
+
+# Android
+/android/app/build/
+/android/build/
+
+# iOS
+/ios/Flutter/Flutter.framework/
+/ios/Flutter/App.framework/
+/ios/Pods/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,93 @@
+name: aspire_edge
+description: FlutterShop is a premium E-commerce UI kit that you can use to build various e-commerce apps using Flutter that works on both Android & iOS. This kit contains 100+ nicely crafted minimal screens that cover everything you need for your shop app.
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.2.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  path_provider: ^2.1.5
+  flutter_svg: ^2.0.10+1
+  shimmer: ^3.0.0
+  cached_network_image: ^3.3.0
+  form_field_validator: ^1.1.0
+  flutter_rating_bar: ^4.0.1
+  flutter_widget_from_html_core: ^0.17.0
+  animations: ^2.0.11
+  url_launcher: ^6.3.0
+  intl: ^0.20.2
+  firebase_core: ^4.0.0
+  cloud_firestore: ^6.0.0
+  firebase_auth: ^6.0.0
+  random_string:
+  http: ^1.5.0
+  image_picker: ^1.1.2
+  path: ^1.8.0
+  sqflite: ^2.0.0+4
+  iconsax: ^0.0.8
+  dio: ^5.9.0
+  carousel_slider: ^5.1.1
+  provider: ^6.1.5+1
+  shared_preferences: ^2.5.3
+  flutter_email_sender: ^7.0.0
+  email_otp: ^3.0.2
+  google_fonts: ^6.2.1
+  floating_bubbles: ^2.6.2
+  flutter_sound: ^9.28.0
+  audioplayers: ^6.5.1
+  http_parser: ^4.0.2
+  universal_io: ^2.0.4
+  video_player: ^2.10.0
+  timeago: ^3.7.1
+  font_awesome_flutter: ^10.10.0
+  flutter_launcher_icons: "^0.13.1"
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/logo/aspire_edge.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/Illustration/
+    - assets/flags/
+    - assets/logo/
+    - assets/gif/
+    - assets/gif/job1.json
+
+  fonts:
+    - family: Plus Jakarta
+      fonts:
+        - asset: assets/fonts/plus_jakarta/PlusJakartaDisplay-Regular.otf
+        - asset: assets/fonts/plus_jakarta/PlusJakartaDisplay-Medium.otf
+          weight: 500
+        - asset: assets/fonts/plus_jakarta/PlusJakartaDisplay-Bold.otf
+          weight: 700
+    - family: Grandis Extended
+      fonts:
+        - asset: assets/fonts/grandis_extended/GrandisExtended-Regular.ttf
+        - asset: assets/fonts/grandis_extended/GrandisExtended-Thin.ttf
+          weight: 300
+        - asset: assets/fonts/grandis_extended/GrandisExtended-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/grandis_extended/GrandisExtended-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/grandis_extended/GrandisExtended-Black.ttf
+          weight: 900
