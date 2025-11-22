@@ -51,8 +51,8 @@ A modern Flutter application for career guidance and professional development.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/aspire-edge.git
-   cd aspire-edge
+   git clone https://github.com/zainish24/aspire-edge-career-app
+   cd aspire-edge-career-app
    ```
 
 2. **Install dependencies**
@@ -68,7 +68,7 @@ A modern Flutter application for career guidance and professional development.
    - Run: `flutterfire configure`
 
 4. **Configure Cloudinary**
-   - Update `lib/core/config/app_config.dart` with your credentials
+   - Update `lib/config/app_config.dart` with your credentials
 
 5. **Run the app**
    ```bash
