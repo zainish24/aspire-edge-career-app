@@ -26,20 +26,6 @@ A modern Flutter application for career guidance and professional development.
 - **Modern UI/UX** - Clean, intuitive Flutter design
 - **State Management** - Efficient app state handling
 
-## 📱 Screenshots
-
-<div align="center">
-
-| Authentication | Dashboard | Career Explorer | User Profile |
-|:---:|:---:|:---:|:---:|
-| <img src="media/image1.png" width="150"> | <img src="media/image2.png" width="150"> | <img src="media/image3.png" width="150"> | <img src="media/image4.png" width="150"> |
-
-| Career Quiz | Resources | Settings | Success Stories |
-|:---:|:---:|:---:|:---:|
-| <img src="media/image5.png" width="150"> | <img src="media/image6.png" width="150"> | <img src="media/image7.png" width="150"> | <img src="media/image8.png" width="150"> |
-
-</div>
-
 ## 🛠 Tech Stack
 
 **Frontend:**
